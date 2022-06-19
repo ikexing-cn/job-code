@@ -1,5 +1,5 @@
 import { expect, test } from 'vitest'
-import findStringMaxChar from '../src/01-find-string-max-char'
+import { findStringMaxChar } from '@/index'
 
 test('Find max char for string', () => {
   const output = findStringMaxChar('findStringMaxChar')
