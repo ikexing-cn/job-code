@@ -1,0 +1,13 @@
+{
+  "name": "job-code",
+  "version": "1.0.0",
+  "author": "ikexing-cn <ikexing@qq.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@antfu/eslint-config": "^0.25.1",
+    "eslint": "^8.18.0",
+    "esno": "^0.16.3",
+    "typescript": "^4.7.4"
+  }
+}
