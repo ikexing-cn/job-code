@@ -4,5 +4,5 @@ import { findStringMaxChar } from '@/index'
 test('Find max char for string', () => {
   const output = findStringMaxChar('findStringMaxChar')
 
-  expect(output).eq('a')
+  expect(output).toEqual('a')
 })
